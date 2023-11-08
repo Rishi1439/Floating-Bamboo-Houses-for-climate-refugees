@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <House ID>123</House ID>
+    <House Name> Bamboo Oasis ,Phillips</House Name>
+    <Location>Newyork</Location>
+    <Size>100</Size>
+    <Number of bedrooms>1</Number of bedrooms>
+    <Number of Bathrooms>1</Number of Bathrooms>
+    <Price>$25,000 </Price>
+    <Sustainable Material>Bamboo</Sustainable Material>
+    <Adaptable Design>Solar Panels</Adaptable Design>
+    <Customizable Features>Solar Panels</Customizable Features>
+    <Eco-Friendly Features>Natural Ventilation System</Eco-Friendly Features>
+  </row>
+  <row>
+    <House ID>456</House ID>
+    <House Name>Bamboo Harmony ,Smith</House Name>
+    <Location>Indiana</Location>
+    <Size>120</Size>
+    <Number of bedrooms>2</Number of bedrooms>
+    <Number of Bathrooms>2</Number of Bathrooms>
+    <Price>$50,000 </Price>
+    <Sustainable Material>Bamboo </Sustainable Material>
+    <Adaptable Design>Versatile Layout</Adaptable Design>
+    <Customizable Features>Flood Resistant walls</Customizable Features>
+    <Eco-Friendly Features>biogas system</Eco-Friendly Features>
+  </row>
+  <row>
+    <House ID>789</House ID>
+    <House Name>Serenity Heaven ,Conwoy</House Name>
+    <Location>Florida</Location>
+    <Size>150</Size>
+    <Number of bedrooms>3</Number of bedrooms>
+    <Number of Bathrooms>3</Number of Bathrooms>
+    <Price>$75,000 </Price>
+    <Sustainable Material>Bamboo &amp; Steel Frames</Sustainable Material>
+    <Adaptable Design>Sustainable bamboo Construction</Adaptable Design>
+    <Customizable Features>Solar - powered lighting</Customizable Features>
+    <Eco-Friendly Features>Rain water collection system</Eco-Friendly Features>
+  </row>
+  <row>
+    <House ID></House ID>
+    <House Name></House Name>
+    <Location></Location>
+    <Size></Size>
+    <Number of bedrooms></Number of bedrooms>
+    <Number of Bathrooms></Number of Bathrooms>
+    <Price></Price>
+    <Sustainable Material></Sustainable Material>
+    <Adaptable Design></Adaptable Design>
+    <Customizable Features></Customizable Features>
+    <Eco-Friendly Features></Eco-Friendly Features>
+  </row>
+  <row>
+    <House ID></House ID>
+    <House Name></House Name>
+    <Location></Location>
+    <Size></Size>
+    <Number of bedrooms></Number of bedrooms>
+    <Number of Bathrooms></Number of Bathrooms>
+    <Price></Price>
+    <Sustainable Material></Sustainable Material>
+    <Adaptable Design></Adaptable Design>
+    <Customizable Features></Customizable Features>
+    <Eco-Friendly Features></Eco-Friendly Features>
+  </row>
+  <row>
+    <House ID></House ID>
+    <House Name></House Name>
+    <Location></Location>
+    <Size></Size>
+    <Number of bedrooms></Number of bedrooms>
+    <Number of Bathrooms></Number of Bathrooms>
+    <Price></Price>
+    <Sustainable Material></Sustainable Material>
+    <Adaptable Design></Adaptable Design>
+    <Customizable Features></Customizable Features>
+    <Eco-Friendly Features></Eco-Friendly Features>
+  </row>
+  <row>
+    <House ID></House ID>
+    <House Name></House Name>
+    <Location></Location>
+    <Size></Size>
+    <Number of bedrooms></Number of bedrooms>
+    <Number of Bathrooms></Number of Bathrooms>
+    <Price></Price>
+    <Sustainable Material></Sustainable Material>
+    <Adaptable Design></Adaptable Design>
+    <Customizable Features></Customizable Features>
+    <Eco-Friendly Features></Eco-Friendly Features>
+  </row>
+  <row>
+    <House ID></House ID>
+    <House Name></House Name>
+    <Location></Location>
+    <Size></Size>
+    <Number of bedrooms></Number of bedrooms>
+    <Number of Bathrooms></Number of Bathrooms>
+    <Price></Price>
+    <Sustainable Material></Sustainable Material>
+    <Adaptable Design></Adaptable Design>
+    <Customizable Features></Customizable Features>
+    <Eco-Friendly Features></Eco-Friendly Features>
+  </row>
+  <row>
+    <House ID></House ID>
+    <House Name></House Name>
+    <Location></Location>
+    <Size></Size>
+    <Number of bedrooms></Number of bedrooms>
+    <Number of Bathrooms></Number of Bathrooms>
+    <Price></Price>
+    <Sustainable Material></Sustainable Material>
+    <Adaptable Design></Adaptable Design>
+    <Customizable Features></Customizable Features>
+    <Eco-Friendly Features></Eco-Friendly Features>
+  </row>
+  <row>
+    <House ID></House ID>
+    <House Name></House Name>
+    <Location></Location>
+    <Size></Size>
+    <Number of bedrooms></Number of bedrooms>
+    <Number of Bathrooms></Number of Bathrooms>
+    <Price></Price>
+    <Sustainable Material></Sustainable Material>
+    <Adaptable Design></Adaptable Design>
+    <Customizable Features></Customizable Features>
+    <Eco-Friendly Features></Eco-Friendly Features>
+  </row>
+</root>

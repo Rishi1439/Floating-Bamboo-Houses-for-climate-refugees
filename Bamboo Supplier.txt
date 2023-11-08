@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Bamboo Supplier>Bamboo Heaven</Bamboo Supplier>
+    <Bamboo Quality>All Varieties</Bamboo Quality>
+    <Location>Miami</Location>
+    <Phone number>123-456-7890</Phone number>
+    <Email ID>Bambooheaven365.com</Email ID>
+    <Supplier Details>Green,Miami regular Bamboo</Supplier Details>
+    <FIELD7></FIELD7>
+  </row>
+  <row>
+    <Bamboo Supplier>Softwood Bamboo</Bamboo Supplier>
+    <Bamboo Quality>Soft Bamboo - 6 inch/12 ,8 inch/20</Bamboo Quality>
+    <Location>Texas</Location>
+    <Phone number>123-654-9870</Phone number>
+    <Email ID>Softwoodbamboo.com</Email ID>
+    <Supplier Details>Archer,Texas, softwood Bamboo,</Supplier Details>
+    <FIELD7></FIELD7>
+  </row>
+  <row>
+    <Bamboo Supplier>Aromatic Bamboo</Bamboo Supplier>
+    <Bamboo Quality>Aromatic Scented bamboo</Bamboo Quality>
+    <Location>Newyork</Location>
+    <Phone number>312-445-7891</Phone number>
+    <Email ID>Aromaticbamboo.com</Email ID>
+    <Supplier Details>John,Newyork,Aromatic scented Bamboo</Supplier Details>
+    <FIELD7></FIELD7>
+  </row>
+</root>

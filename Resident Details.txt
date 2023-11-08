@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Resident ID>SSN-123457944</Resident ID>
+    <Name>Jhonson</Name>
+    <Age>40</Age>
+    <Contact Information>123-456-7892</Contact Information>
+    <Emergency Contact>312-456-7891</Emergency Contact>
+    <House ID>123</House ID>
+  </row>
+  <row>
+    <Resident ID>SSN-321457894</Resident ID>
+    <Name>Starc</Name>
+    <Age>35</Age>
+    <Contact Information>124-785-4859</Contact Information>
+    <Emergency Contact>213-456-9872</Emergency Contact>
+    <House ID>456</House ID>
+  </row>
+  <row>
+    <Resident ID>SSN-147895463</Resident ID>
+    <Name>Maxwell</Name>
+    <Age>60</Age>
+    <Contact Information>741-456-7896</Contact Information>
+    <Emergency Contact>312-789-4563</Emergency Contact>
+    <House ID>789</House ID>
+  </row>
+</root>

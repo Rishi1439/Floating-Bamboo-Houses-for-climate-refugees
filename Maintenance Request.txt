@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Maintenance ID>12345</Maintenance ID>
+    <House ID>12</House ID>
+    <Description>Light Problem</Description>
+    <Assigned Technician>Buttler</Assigned Technician>
+    <Completion Date>11/8/2023</Completion Date>
+    <Priority>Low</Priority>
+  </row>
+  <row>
+    <Maintenance ID>654321</Maintenance ID>
+    <House ID>456</House ID>
+    <Description>Water Leakage</Description>
+    <Assigned Technician>Stokes</Assigned Technician>
+    <Completion Date>11/7/2023</Completion Date>
+    <Priority>Medium</Priority>
+  </row>
+  <row>
+    <Maintenance ID>21214</Maintenance ID>
+    <House ID>789</House ID>
+    <Description>Steel Frame Problem</Description>
+    <Assigned Technician>Alex Hales</Assigned Technician>
+    <Completion Date>11/6/2023</Completion Date>
+    <Priority>Low</Priority>
+  </row>
+</root>

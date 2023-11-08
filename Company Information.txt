@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Company Name>Floating Cottages </Company Name>
+    <Address>Florida</Address>
+    <Phone number>773-411-6658</Phone number>
+    <Website>www.floatingcottages.com</Website>
+    <Email Address>info@floatingcottages.com</Email Address>
+  </row>
+  <row>
+    <Company Name>Bamboo Heaven</Company Name>
+    <Address>New Jersey</Address>
+    <Phone number>771-668-4123</Phone number>
+    <Website>www.BambooHeaven.com</Website>
+    <Email Address>BambooHeaven@gmail.com</Email Address>
+  </row>
+  <row>
+    <Company Name>Eby Brown Bamboo</Company Name>
+    <Address>Texas</Address>
+    <Phone number>772-410-6157</Phone number>
+    <Website>www.ebybrownbamboo.com</Website>
+    <Email Address>ebybrownbamboo@gmail.com</Email Address>
+  </row>
+  <row>
+    <Company Name></Company Name>
+    <Address></Address>
+    <Phone number></Phone number>
+    <Website></Website>
+    <Email Address></Email Address>
+  </row>
+  <row>
+    <Company Name></Company Name>
+    <Address></Address>
+    <Phone number></Phone number>
+    <Website></Website>
+    <Email Address></Email Address>
+  </row>
+  <row>
+    <Company Name></Company Name>
+    <Address></Address>
+    <Phone number></Phone number>
+    <Website></Website>
+    <Email Address></Email Address>
+  </row>
+  <row>
+    <Company Name></Company Name>
+    <Address></Address>
+    <Phone number></Phone number>
+    <Website></Website>
+    <Email Address></Email Address>
+  </row>
+  <row>
+    <Company Name></Company Name>
+    <Address></Address>
+    <Phone number></Phone number>
+    <Website></Website>
+    <Email Address></Email Address>
+  </row>
+  <row>
+    <Company Name></Company Name>
+    <Address></Address>
+    <Phone number></Phone number>
+    <Website></Website>
+    <Email Address></Email Address>
+  </row>
+  <row>
+    <Company Name></Company Name>
+    <Address></Address>
+    <Phone number></Phone number>
+    <Website></Website>
+    <Email Address></Email Address>
+  </row>
+  <row>
+    <Company Name></Company Name>
+    <Address></Address>
+    <Phone number></Phone number>
+    <Website></Website>
+    <Email Address></Email Address>
+  </row>
+</root>
